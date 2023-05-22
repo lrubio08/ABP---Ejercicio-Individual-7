@@ -1,1 +1,2 @@
 Modulo 1: Programación en Python.  Modulo 2: Lenguaje de consultasd a una base de datos.  Modulo 3: Fundamentos del desarrollo web
+Módulo 2: Desarrollo de aplicaciones web dinámicas con Python
